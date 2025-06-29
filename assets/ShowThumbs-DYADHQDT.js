@@ -1,4 +1,4 @@
-import{j as V,r as G,R as B}from"./index-Cf7PaBZi.js";const Ei=({title:t,titleAlign:e,ShowMore:i,children:s})=>V.jsxs("div",{className:` \r
+import{j as V,r as G,R as B}from"./index-CqWW9mKj.js";const Ei=({title:t,titleAlign:e,ShowMore:i,children:s})=>V.jsxs("div",{className:` \r
       flex flex-col \r
       w-[100%] \r
     `,children:[V.jsx("div",{className:`\r

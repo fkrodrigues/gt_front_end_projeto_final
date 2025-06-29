@@ -1,4 +1,4 @@
-import{j as e,G as r,r as c}from"./index-Cf7PaBZi.js";import{P as l}from"./ProductListing-DsMIWHHH.js";const p=({checked:s,radio:n,text:i,onChange:t})=>e.jsx("div",{children:e.jsxs("label",{className:` h-[26px] flex \r
+import{j as e,G as r,r as c}from"./index-CqWW9mKj.js";import{P as l}from"./ProductListing-CfIbPU4K.js";const p=({checked:s,radio:n,text:i,onChange:t})=>e.jsx("div",{children:e.jsxs("label",{className:` h-[26px] flex \r
            gap-2 text-[#474747] \r
          `,children:[e.jsx("input",{type:n?"radio":"checkbox",checked:s,onChange:t,className:`\r
           accent-[#C92071] h-[22px] w-[22px]\r

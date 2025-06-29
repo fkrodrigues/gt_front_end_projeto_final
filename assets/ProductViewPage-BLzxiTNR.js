@@ -1,4 +1,4 @@
-import{r as O,j as g,B as Cr}from"./index-Cf7PaBZi.js";import{P as Mr}from"./ProductListing-DsMIWHHH.js";import{b as Sr,c as zr}from"./ShowThumbs-CIZTCvEU.js";const Ar=()=>{const[e,r]=O.useState(null),o=[39,40,41,42,43],t=a=>{r(a)},[n,s]=O.useState(null),i=["#6FEEFF","#FF6969","#5E5E5E","#6D70B7"],l=a=>{s(a)};return g.jsxs(g.Fragment,{children:[g.jsx("h5",{className:"text-[#8F8F8F] mb-1",children:"Tamanho"}),g.jsx("div",{className:`flex gap-2 \r
+import{r as O,j as g,B as Cr}from"./index-CqWW9mKj.js";import{P as Mr}from"./ProductListing-CfIbPU4K.js";import{b as Sr,c as zr}from"./ShowThumbs-DYADHQDT.js";const Ar=()=>{const[e,r]=O.useState(null),o=[39,40,41,42,43],t=a=>{r(a)},[n,s]=O.useState(null),i=["#6FEEFF","#FF6969","#5E5E5E","#6D70B7"],l=a=>{s(a)};return g.jsxs(g.Fragment,{children:[g.jsx("h5",{className:"text-[#8F8F8F] mb-1",children:"Tamanho"}),g.jsx("div",{className:`flex gap-2 \r
       w-[280px] h-[55px] mb-2\r
       `,children:o.map(a=>g.jsx("button",{className:`\r
                     w-[50px] h-[50px]\r
