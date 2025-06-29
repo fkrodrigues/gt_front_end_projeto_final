@@ -1,4 +1,4 @@
-import{j as e,B as l,G as s}from"./index-CqWW9mKj.js";import{P as o}from"./ProductListing-CfIbPU4K.js";import{S as d,N as p,P as h,a as u,b as g,c as a}from"./ShowThumbs-DYADHQDT.js";const f=({titleCard:n,image:r,discount:t})=>e.jsx("div",{children:e.jsxs("div",{className:`\r
+import{j as e,B as l,G as s}from"./index-BzjXSx9L.js";import{P as o}from"./ProductListing-P2M5iLw6.js";import{S as d,N as p,P as h,a as u,b as g,c as a}from"./ShowThumbs-B63RQV5p.js";const f=({titleCard:n,image:r,discount:t})=>e.jsx("div",{children:e.jsxs("div",{className:`\r
               w-[405px] h-[251px] relative\r
               max-sm:w-[21rem]\r
               max-sm:h-full\r

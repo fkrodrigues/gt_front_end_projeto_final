@@ -1,4 +1,4 @@
-import{j as r,L as c}from"./index-CqWW9mKj.js";const i=({discount:e,image:n,type:s,name:t,price:x,priceDiscount:a})=>r.jsx(c,{to:"/products/1",children:r.jsx("div",{className:`\r
+import{j as r,L as c}from"./index-BzjXSx9L.js";const i=({discount:e,image:n,type:s,name:t,price:x,priceDiscount:a})=>r.jsx(c,{to:"/products/1",children:r.jsx("div",{className:`\r
           w-[300px] h-[439px]\r
           max-sm:w-[100%]\r
         \r
