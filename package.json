@@ -2,7 +2,7 @@
   "name": "projeto-final",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/fkrodrigues/projeto-final-front-end_gt",
+  "homepage": "https://github.com/fkrodrigues/gt_front_end_projeto_final",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
