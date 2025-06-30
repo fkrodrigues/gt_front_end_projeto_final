@@ -1,0 +1,71 @@
+@import "tailwindcss";
+@plugin "flowbite-react/plugin/tailwindcss";
+@source "../.flowbite-react/class-list.json";
+@theme{
+    --breakpoint-xs: 375px
+}
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+
+@layer base {
+    *{
+        font-family: "Inter", sans-serif;
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        text-decoration: none;
+        list-style-type: none;
+        letter-spacing: .75px;
+    }
+
+    html{
+        background-color: #F9F8FE;
+        box-sizing: border-box;
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+        font-size: revert;
+        font-weight: revert;
+      }
+
+    .active{
+        color: #c92071;
+        font-weight: bold;
+    }
+
+    
+    .active:after{
+        content: "";
+        background-color: #c92071;
+        width: 100%;
+        height: 2.5px;
+        position: absolute;
+        bottom: 0px;
+        left: 0;
+        color: #c92071;
+    }
+
+    
+}
+
+.swiper-pagination-bullet-active {
+    background: #f53592;
+  }
+
+.swiper-button-next,
+.swiper-button-prev {
+  color: #343434;
+}
+
+.swiper-button-next:hover,
+.swiper-button-prev:hover {
+  color: #6d6d6d;
+}
+
+@media (max-width: 640px) {
+  .swiper-button-next,
+  .swiper-button-prev {
+    display: none;
+  }
+}
+
